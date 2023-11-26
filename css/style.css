@@ -1,0 +1,86 @@
+
+/* p {
+    font-size: 24px;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: 800;
+    font-weight: 400;
+    color: brown;
+    background: orange;
+} */
+
+.one {
+    color: orange;
+    background: orange;
+    height: 50px;
+    height: 100px;
+    width: 100px;
+    padding: auto;
+    border: 1px solid black; /* грани прямоугольника */
+    
+    
+}
+
+.two {
+    color: brown;
+    font-weight: bold;
+    background: brown;
+    height: 100px; 
+    padding: 20px 0 0 0;
+    height: 100px;
+    width: 250px;
+    border: 2px solid coral; /* граница толщиной 2 пикселя, цвет coral */
+    
+}
+
+.three {
+    color: orange;
+    background: orange;
+    height: 100px;
+    width: 100px;
+    border: 1px solid black; /* грани прямоугольника */
+    border-radius: 50%;
+}
+
+.five {
+    color: rgb(255, 127, 80);
+    background: rgb(255, 127, 80);
+    height: 75px;
+    width: 100px;    
+}
+
+.blok {
+    color: rgb(247, 213, 198);
+    background: rgb(247, 213, 198);
+    height: 75px;
+    width: 100px;
+}
+
+.task {
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+}
+
+.task-fon {
+    font-size: 18px;
+    font-family: Georgia, serif;
+    color: #333;
+    font-weight: 800;
+}
+
+.font-size {
+    font-size: 16px;
+    font-family: bold, coral;
+    background-color: coral;    
+}
+
+.font-style {
+    font-style: italic; 
+    text-decoration: underline; /* подчеркивание текста */
+    text-transform: uppercase; /* преобразование текста в верхний регистр */
+}
+
+.dry {
+    color: blue;
+    text-decoration: underline;
+}
